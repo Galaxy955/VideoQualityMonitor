@@ -13,3 +13,9 @@ Download the complete application from **Release** and run it on your Mac.
 
 ### Compile it by yourself 🧐
 You can also compile the project for Windows, Linux or other systems if you have installed **ffmpeg** and **Qt** on your computer.
+
+
+
+## Effect diagram
+
+<img src="./effect_diagram.jpg">
